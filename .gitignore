@@ -1,3 +1,6 @@
+#2003PAGE.GA .GITIGNORE
+# WRITTEN BY PF94
+
 #--!--Frontpage Specific Infomation Junk--!--
 index_files/_vti_cnf/.fp_folder_info
 desktop.ini
@@ -11,5 +14,8 @@ _vti_pvt/deptodoc.btr
 _vti_pvt/bots.cnf
 _vti_pvt/botinfs.cnf
 _vti_cnf/
+#we don't want javascript, was made for the cwc-site archive, but i'm still including it 
 *.js
-misc/chrischan/MellowColor.mp3
+
+#don't edit the logo for now, please.
+index_files/image001.gif
