@@ -3,3 +3,6 @@
 
 
 2003page is an set of subsites created on frontpage. [Get into the "time machine" and visit what sites used to look using Microsoft Office Frontpage!](http://2003page.ga)
+
+
+Join instructions [>>Here<<](tlwxpuser/join.md)
