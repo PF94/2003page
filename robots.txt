@@ -5,4 +5,4 @@ Disallow: /Chaziz/diaper
 User-Agent: Googlebot-Image
 Disallow: /downloads/index.htm
 
-Sitemap: http://2003page.ga/sitemap/index.htm
+Sitemap: http://2003page.ga/sitemap.xml
