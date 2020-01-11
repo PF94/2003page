@@ -6,4 +6,4 @@
 
 
 Join instructions [>>Here<<](tlwxpuser/join.md)<br>
-<a href='http://www.siteprice.org/website-worth/www.2003page.ga'><img border='0' alt='Website Value Calculator - Domain Worth Estimator - Buy Website For Sales' title='Website Value Calculator - Domain Worth Estimator - Buy Website For Sales' src='http://www.siteprice.org/widgets/2/2003page.ga.png'/></a>
+<img border='0' src='https://www.siteprice.org/widgets/2/2003page.ga.png' alt='2003page.ga estimated website worth' usemap='#spmap'><map name='spmap'><area shape='circle' coords='60,60,30' alt='2003page.ga domain value' href='https://www.siteprice.org/website-worth/2003page.ga'><area shape='circle' coords='60,60,60' alt='website worth calculator' href='https://www.siteprice.org/'></ map >
