@@ -1,4 +1,4 @@
-# ![2003page logo]("http://2003page.ga/misc/promotionalmaterial/2003pageLogo(Promotional).png")
+# ![2003page logo]("http://2003page.ga/misc/promotionalmaterial/PromoLogo.png")
 <a href="https://discord.gg/GX4hcNb"><img src="https://discordapp.com/api/guilds/579040973821181953/embed.png" alt="Join 2003page.ga Discord server!"/></a> [![CodeFactor](https://www.codefactor.io/repository/github/2003tech/2003page.ga/badge)](https://www.codefactor.io/repository/github/2003tech/2003page.ga) ![Size](https://img.shields.io/github/repo-size/2003tech/2003page.ga) ![Contributors](https://img.shields.io/github/contributors/2003tech/2003page.ga) ![issues](https://img.shields.io/github/issues-raw/2003tech/2003page.ga)
 
 
