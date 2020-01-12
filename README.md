@@ -5,7 +5,7 @@
 2003page is an set of sub-websites (officialy known as subsites) created on Office FrontPage or Expression Web. [Get into the "time machine" and visit what sites used to look using Microsoft Office Frontpage!](http://2003page.ga) 
 
 
-Join instructions  [>>Here<<](tlwxpuser/join.md) <br>
+Join instructions  [>>Here<<](CONTRIBUTING.md) <br>
 
 
 <a href="https://www.siteprice.org/website-worth/2003page.ga"><img border='0' src='https://www.siteprice.org/widgets/2/2003page.ga.png' alt='2003page.ga estimated website worth' usemap='#spmap'><map name='spmap'><area shape='circle' coords='60,60,30' alt='2003page.ga domain value' href='https://www.siteprice.org/website-worth/2003page.ga'><area shape='circle' coords='60,60,60' alt='website worth calculator' href='https://www.siteprice.org/'></map></a>
