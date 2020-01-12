@@ -1,0 +1,10 @@
+###behaviorbot welcome - https://github.com/behaviorbot/
+
+newIssueWelcomeComment: >
+  Thanks for opening your first issue to the 2003page GitHub! Be sure to follow the issue template!
+
+newPRWelcomeComment: >
+  Thanks for opening this pull request! Please check your emails if you have recieved a invite to 2003page. If not, please make a issue about your inviation request with the template.
+
+firstPRMergeComment: >
+  Congrats on merging your first pull request! We here at 2003page are proud of you!
