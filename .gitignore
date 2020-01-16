@@ -1,4 +1,4 @@
-#2003PAGE.GA .GITIGNORE
+#2003PAGE .GITIGNORE
 # WRITTEN BY PF94
 
 #--!--Frontpage Specific Infomation Junk--!--
@@ -17,5 +17,5 @@ _vti_cnf/
 #we don't want javascript, was made for the cwc-site archive, but i'm still including it 
 *.js
 
-#don't edit the logo for now, please.
-index_files/image001.gif
+#disallow .exe files, please, zippify your .exe files, but, 2003page is NOT a file hoster.
+*.exe
