@@ -5,4 +5,4 @@ These are added because they can be used for blogs or just replace text emoticon
 
 we are including:
 
-MSN, AIM
+MSN, AIM LARGE, AIM SMALL, YAHOO
