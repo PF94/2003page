@@ -4,7 +4,7 @@
 NOTICE: WE ARE CURRENTLY FIXING DAMAGES CAUSED BY TLWXPUSER DELETING THE 2003PAGE.GA DOMAIN.
 
 
-2003page is an set of sub-websites (officialy known as subsites) created on Office FrontPage or Expression Web. [Get into the "time machine" and visit what sites used to look using Microsoft Office Frontpage!](http://2003page.ga) 
+2003page is an set of sub-websites (officialy known as subsites) created on Office FrontPage or Expression Web. [Get into the "time machine" and visit what sites used to look using Microsoft Office Frontpage!](https://2003tech.github.io/2003page.ga) 
 
 
 Join instructions  [>>Here<<](CONTRIBUTING.md) <br>
