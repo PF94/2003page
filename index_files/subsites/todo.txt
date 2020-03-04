@@ -1,4 +1,0 @@
-We should fix the mess once more,
-
-
-put unused buttons in a zip file, in "(source code directory)\misc\archived zip files\Old 2003page Buttons.zip"
