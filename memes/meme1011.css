@@ -3,42 +3,49 @@
 }
 .mstheme-bannertxt
 {
+	color: rgb(255, 255, 255);
 	font-size: 6;
 	font-style: normal;
 	font-weight: normal;
 }
 .mstheme-horiz-navtxt
 {
+	color: rgb(255, 255, 255);
 	font-size: 2;
 	font-style: normal;
 	font-weight: normal;
 }
 .mstheme-vert-navtxt
 {
+	color: rgb(13, 151, 175);
 	font-size: 2;
 	font-style: normal;
 	font-weight: normal;
 }
 .mstheme-navtxthome
 {
+	color: rgb(13, 151, 175);
 	font-size: 1;
 	font-style: normal;
 	font-weight: normal;
 }
 .mstheme-navtxtnext
 {
+	color: rgb(13, 151, 175);
 	font-size: 1;
 	font-style: normal;
 	font-weight: normal;
 }
 .mstheme-navtxtprev
 {
+	color: rgb(13, 151, 175);
 	font-size: 1;
 	font-style: normal;
 	font-weight: normal;
 }
 .mstheme-navtxtup
 {
+	color: rgb(13, 151, 175);
 	font-size: 1;
 	font-style: normal;
 	font-weight: normal;
@@ -54,46 +61,62 @@ ul ul ul
 }
 a:link
 {
+	color: rgb(13, 151, 255);
 }
 a:active
 {
+	color: rgb(255, 255, 255);
 }
 a:visited
 {
+	color: rgb(51, 204, 255);
 }
 body
 {
-	background-color: rgb(0, 153, 204);
+	background-color: rgb(51, 51, 255);
+	color: rgb(255, 255, 255);
 }
 table
 {
+	table-border-color-light: rgb(175, 37, 13);
+	table-border-color-dark: rgb(175, 37, 13);
+	border-color: rgb(175, 37, 13);
 }
 th
 {
+	border-color: rgb(175, 37, 13);
 }
 td
 {
+	border-color: rgb(175, 37, 13);
 }
 h1
 {
+	color: rgb(255, 255, 255);
 }
 h2
 {
+	color: rgb(255, 255, 255);
 }
 h3
 {
+	color: rgb(255, 255, 255);
 }
 h4
 {
+	color: rgb(255, 255, 255);
 }
 h5
 {
+	color: rgb(255, 255, 255);
 }
 h6
 {
+	color: rgb(255, 255, 255);
 }
 hr
 {
+	color: rgb(13, 151, 175);
 }
 button
 {
