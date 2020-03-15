@@ -1,9 +1,9 @@
 ---
 name: Bug/Problem
-about: Any problems in the site? It doesn't load? Use this template to report.
+about: Any problems in the site? It doesn't load? The main page's CSS is broken? Use this template to report.
 title: ''
 labels: 'bug'
-assignees: 'PF94'
+assignees: 'PF94, forkiesassds'
 
 ---
 
