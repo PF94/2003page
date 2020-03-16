@@ -1,7 +1,7 @@
-#2003PAGE .GITIGNORE
+# 2003PAGE .GITIGNORE
 # WRITTEN BY PF94
 
-#--!--Frontpage Specific Infomation Junk--!--
+# --!--Frontpage Specific Infomation Junk--!--
 index_files/_vti_cnf/.fp_folder_info
 desktop.ini
 _vti_pvt/fpdbw.ico
@@ -14,8 +14,12 @@ _vti_pvt/deptodoc.btr
 _vti_pvt/bots.cnf
 _vti_pvt/botinfs.cnf
 _vti_cnf/
-#we don't want javascript, was made for the cwc-site archive, but i'm still including it 
+# we don't want javascript, was made for the cwc-site archive, but i'm still including it 
 *.js
 
-#disallow .exe files, please, zippify your .exe files, but, 2003page is NOT a file hoster.
+# disallow .exe files, please, zippify your .exe files, but, 2003page is NOT a file hoster.
 *.exe
+
+# Mac Users
+.DS_Store
+Thumbs.db
