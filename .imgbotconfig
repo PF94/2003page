@@ -1,3 +1,4 @@
 "ignoredFiles": [
-    "misc/promotionalmaterial/PromoLogo.png"
+    "misc/promotionalmaterial/*",
+    "PromoLogo.png"
 ]
