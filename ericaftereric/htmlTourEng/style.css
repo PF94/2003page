@@ -1,4 +1,3 @@
-<style>	
 	.gradiant_bar
 	{
 		background-repeat : repeat-x;
@@ -44,27 +43,32 @@
 		font-family : "Franklin Gothic Demi," "Tahoma";
 		font-size : .95em;
 		font-weight : bold;
-		
 	}
-	
+
 	.start_here
 	{
 		color : #808080;
 		text-decoration : none;
-	}	.safe_easy
+	}
+
+	.safe_easy
 	{
 		color : #FF4600;
 		text-decoration : none;
-	}	.unlock
+	}
+
+	.unlock
 	{
 		color : #54AA2B;
 		text-decoration : none;
-	}	.connected
+	}
+	
+	.connected
 	{
 		color : #495AD1;
 		text-decoration : none;
 	}
-	<!-- <table bgcolor="#D29B00"> -->			
+	/* <table bgcolor="#D29B00"> */
 	.best
 	{
 		color : #D29B00;
@@ -75,7 +79,7 @@
 	{
 		color : #BBC6C2;
 		text-decoration : none;
-	}	
+	}
 	
 	.nav_blue_balls
 	{
@@ -133,7 +137,7 @@
 		font-weight : bold;
 		margin-bottom : 1px;
 		margin-top: 20px;
-	}  
+	}
 	
 	.body_text
 	{
@@ -141,10 +145,12 @@
 		font-size : 0.8em;
 		color : #808080;
 		margin-top : 1px;
-	}	.body_text_small
+	}
+	
+	.body_text_small
 	{
 		font-family : "Franklin Gothic Medium", "Tahoma";
 		font-size : .725em;
 		color : #808080;
 		margin-top : 1px;
-	}</style>
+	}
