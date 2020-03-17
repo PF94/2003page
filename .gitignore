@@ -23,3 +23,6 @@ _vti_cnf/
 # Mac Users
 .DS_Store
 Thumbs.db
+
+# Visual Studio Code JSON Junk
+.vscode
