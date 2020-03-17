@@ -1,7 +1,7 @@
 body
 {
 	font-family: "Segoe UI", "verdana", "arial";
-	background-image: url(assets4every1/ie7_error/background_gradient.png);
+	background-image: url(http://2003page.ga/assets4every1/ie7_error/BACKGROUND_GRADIENT.JPG);
 	background-repeat: repeat-x;
 	background-color: #E8EAEF;
 	margin-top: 20px;
@@ -12,7 +12,7 @@ body
 body.securityError
 {
 	font-family: "Segoe UI", "verdana" , "Arial";
-	background-image: url(assets4every1\ie7_error\background_gradient_red.jpg);
+	background-image: url(http://2003page.ga/assets4every1/ie7_error/BACKGROUND_GRADIENT_RED.JPG);
 	background-repeat: repeat-x;
 	background-color: #E8EAEF;
 	margin-top: 20px;
