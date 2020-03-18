@@ -8,6 +8,12 @@
 
 Join instructions  [>>Here<<](CONTRIBUTING.md) <br>
 
+# Minimum Versions
+| Browser           | Minimum     | Recommended |
+|-------------------|-------------|-------------|
+| Internet Explorer | 4           | 6           |
+| Firefox           | Phoenix 0.1 | Any of 'em  |
+| Chrome            | 1.0         | Any of 'em  
 
 ----
 ![2003page's Approval](http://2003page.ga/misc/promotionalmaterial/sealofapproval.png)

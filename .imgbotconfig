@@ -1,0 +1,9 @@
+{
+    "schedule": "weekly",
+    "ignoredFiles": [
+        "misc/promotionalmaterial/*",
+        "PromoLogo.png",
+    ],
+    "aggressiveCompression": "false"
+    "compressWiki": "false"
+}
