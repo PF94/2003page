@@ -20,6 +20,13 @@ _vti_cnf/
 # Visual Studio Code JSON Junk
 .vscode
 
+# More Visual Studio Code JSON Junk
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history
+
 # promo logo
 /misc/promotionalmaterial/PromoLogo.png
 
