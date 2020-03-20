@@ -1,0 +1,19 @@
+<asx version = "3.0">
+  <title>Eric's MIDI jukebox, all exported in GarageBand</title>
+  <entry>
+    <title>CLOUDS.MID</title>
+    <ref href="clouds.wav" />
+  </entry>
+  <entry>
+    <title>FLOURISH.MID</title>
+    <ref href="flourish.wav" />
+  </entry>
+  <entry>
+    <title>TOWN.MID</title>
+    <ref href="town.wav" />
+  </entry>
+  <entry>
+    <title>ONESTOP.MID</title>
+    <ref href="onestop.wav" />
+  </entry>
+</asx>
