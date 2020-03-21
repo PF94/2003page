@@ -11,7 +11,7 @@ Join instructions  [>>Here<<](CONTRIBUTING.md) <br>
 # Minimum Versions
 | Browser           | Minimum     | Recommended |
 |-------------------|-------------|-------------|
-| Internet Explorer | 4           | 6           |
+| Internet Explorer | 4           | 7           |
 | Firefox           | Phoenix 0.1 | Any of 'em  |
 | Chrome            | 1.0         | Any of 'em  
 

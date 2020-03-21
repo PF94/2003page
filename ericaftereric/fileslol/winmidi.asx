@@ -2,18 +2,18 @@
   <title>Eric's MIDI jukebox, MIDIs are "remastered" in GarageBand</title>
   <entry>
     <title>CLOUDS.MID</title>
-    <ref href="clouds.wav" />
+    <ref href="clouds.mp3" />
   </entry>
   <entry>
     <title>FLOURISH.MID</title>
-    <ref href="flourish.wav" />
+    <ref href="flourish.mp3" />
   </entry>
   <entry>
     <title>TOWN.MID</title>
-    <ref href="town.wav" />
+    <ref href="town.mp3" />
   </entry>
   <entry>
     <title>ONESTOP.MID</title>
-    <ref href="onestop.wav" />
+    <ref href="onestop.mp3" />
   </entry>
 </asx>
