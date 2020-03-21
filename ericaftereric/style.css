@@ -1,0 +1,32 @@
+/* font and font colour */
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    color:white;
+}
+
+/* unvisited link */
+a:link {
+    color: white;
+}
+
+/* visited link */
+a:visited {
+    color: white;
+}
+
+/* mouse over link */
+a:hover {
+    color: green;
+}
+
+/* selected link */
+a:active {
+    color: grey;
+}
+
+/* sidebar */
+.sidebar1 {
+    float: right;
+    width: 20%;
+    padding-bottom: 10px;
+}
