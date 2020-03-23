@@ -83,16 +83,6 @@ div.com-apple-iweb-widget-rssfeed .StatusMessageTable {
     height: 100%;
 }
 
-div.com-apple-iweb-widget-rssfeed .StatusView {
-    position: absolute;
-    left: 0;
-    top: 0;
-    height: 100%;
-    width: 100%;
-    background: rgb(206,206,206);
-    overflow: hidden;
-}
-
 div.com-apple-iweb-widget-rssfeed .StatusMessageBlock {
     position: absolute;
     top: 45px;
@@ -106,7 +96,7 @@ div.com-apple-iweb-widget-rssfeed .StatusMessageBlock {
 div.com-apple-iweb-widget-rssfeed .StatusUpperRightBadge {
     float: right;
     margin-right: 5px;
-    margin-top: 5px; 
+    margin-top: 5px;
 }
 
 div.com-apple-iweb-widget-rssfeed .StatusMessageTable td {
@@ -126,9 +116,9 @@ div.com-apple-iweb-widget-rssfeed .RSSFeedContainer td {
 }
 
 div.com-apple-iweb-widget-rssfeed .ClearBothSeparator {
-    width: 100%; 
-    height: 0; 
-    border: 0; 
+    width: 100%;
+    height: 0;
+    border: 0;
     clear: both;
 }
 
@@ -239,7 +229,5 @@ div.com-apple-iweb-widget-rssfeed div.FeedEntryLayout7 .RSS_Body, div.com-apple-
 }
 div.com-apple-iweb-widget-rssfeed div.FeedEntryLayout7 div.RSS_Date {
     clear: both;
-}
-div.com-apple-iweb-widget-rssfeed div.FeedEntryLayout7 .RSS_Feed_Entry_Image {
 }
 
