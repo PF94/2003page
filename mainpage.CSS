@@ -1,6 +1,6 @@
 body
 {
-	font-family: "Segoe UI", "verdana", "arial";
+	font-family: "Segoe UI", "Open Sans", "Noto Sans", "Roboto", "verdana", "arial";
 	background-image: linear-gradient(rgb(107, 79, 167) 30%,rgb(50, 37, 90) 100%);
 	background-repeat: repeat-x;
 	background-color: #E8EAEF;
