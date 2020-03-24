@@ -3,7 +3,11 @@
 body
 {
 	font-family: "Segoe UI", "Open Sans", "Noto Sans", "Roboto", "verdana", "arial"; /* Google fonts are listed so that Android/Chromebook users won't see Serif text. */
-	background-image: linear-gradient(rgb(107, 79, 167) 30%,rgb(50, 37, 90) 100%); /* Gradients only work on IE10 and above, IE7's ErrorTemplate CSS references a JPG,  maybe we could use that to make the CSS IE7-optimized. */
+	background: rgb(107,79,167); /* Old browsers */
+	background: -moz-linear-gradient(top, rgba(107,79,167,1) 0%, rgba(50,37,90,1) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top, rgba(107,79,167,1) 0%,rgba(50,37,90,1) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, rgba(107,79,167,1) 0%,rgba(50,37,90,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6b4fa7', endColorstr='#32255a',GradientType=0 ); /* IE6-9 */
 	background-repeat: repeat-x;
 	background-color: rgb(50, 37, 90); /* this was overlooked for some reason lol, this caused white-void issue for a while */
 	margin-top: 20px;
