@@ -1,7 +1,7 @@
 console.log('script kiddie has been in here\nhttps://wikipedia.org/wiki/Script_kiddie')
 var audio = document.getElementById("audio");
 var tracks = {
-    list: ["fileslol/clouds.wav", "fileslol/flourish.wav", "fileslol/town.wav", "fileslol/onestop.wav"], 
+    list: ["fileslol/clouds.mp3", "fileslol/flourish.mp3", "fileslol/town.mp3", "fileslol/onestop.mp3"], 
     index: 0,
     next: function() {
         if (this.index == this.list.length - 1) this.index = 0;
