@@ -15,7 +15,8 @@ Join instructions  [>>Here<<](CONTRIBUTING.md) <br>
 | Firefox           | 3.5         | 3.6         |
 | Chrome            | 1.0         | 2.0         |
 | Safari            | ?           | 4.0         |
-| Opera             | ?           | 9.5  
+| Opera             | ?           | 9.5         |
+| Internet Channel  | Demo        | "v1024"     |
 
 ----
 ![2003page's Approval](http://2003page.ga/misc/promotionalmaterial/sealofapproval.png)
