@@ -692,7 +692,7 @@ color:#000000;
 border-color:#6699CC;
 }
 TABLE.ms-titleareaframe{
-border-left:0px;
+border-left:0;
 }
 Div.ms-titleareaframe{
 border-top:4px solid #6699CC;
@@ -783,7 +783,7 @@ color:#6699CC;
 text-decoration:none;
 font-weight:normal;
 vertical-align:top;
-width:0px;
+width:0;
 }
 .ms-vh-left{
 font-family:arial,helvetica;
@@ -803,7 +803,7 @@ font-family:arial,helvetica;
 color:#6699CC;
 text-decoration:none;
 font-weight:normal;
-width:0px;
+width:0;
 }
 .ms-vh-right{
 font-family:arial,helvetica;
@@ -823,7 +823,7 @@ font-family:arial,helvetica;
 color:#6699CC;
 text-decoration:none;
 font-weight:normal;
-width:0px;
+width:0;
 }
 .ms-vh a, .ms-vh a:visited, .ms-vh2 a, .ms-vh2 a:visited, .ms-vh-left a, .ms-vh-right a{
 color:#6699CC;
@@ -879,11 +879,11 @@ border-top:1px solid #6699CC;
 vertical-align:top;
 width:16px;
 padding-top:2px;
-padding-bottom:0px;
+padding-bottom:0;
 }
 .ms-vb2{
 padding-top:3px;
-padding-bottom:0px;
+padding-bottom:0;
 }
 .ms-addnew{
 font-weight:normal;
@@ -919,7 +919,7 @@ border-color:#CCCCCC;
 height:20px;
 }
 .ms-calDmidQuarterHour{
-border:0px none;
+border:0 none;
 height:20px;
 }
 .ms-CalSpacer{
@@ -934,7 +934,7 @@ height:4px;
 }
 .ms-CalVSpacer{
 background-color:#CCCCCC;
-width:0px;
+width:0;
 }
 .ms-CalAllDay{
 text-align:center;
@@ -959,7 +959,7 @@ vertical-align:top;
 height:12px;
 }
 .ms-calQuarterHour{
-border-top:0px none;
+border-top:0 none;
 vertical-align:top;
 height:12px;
 }
@@ -1002,7 +1002,7 @@ text-decoration:underline;
 color:#FFFFFF;
 }
 .ms-Vevt{
-padding:0px;
+padding:0;
 text-align:center;
 vertical-align:top;
 font-family:arial,helvetica;
@@ -1089,11 +1089,11 @@ tr.ms-imglibselectedrow{
 background-color:#737373;
 }
 table.ms-imglibtitletable{
-border:0px solid #6699CC;
+border:0 solid #6699CC;
 }
 .ms-imglibthumbnail{
 background-color:#737373;
-border:solid #454546 0px;
+border:solid #454546 0;
 }
 span.thumbnail{
 padding:16 10;
@@ -1202,13 +1202,13 @@ color:#FFFFFF;
 font-family:arial,helvetica;
 }
 .UserGeneric{
-padding:8px 5px 7px 5px;
+padding:8px 5px 7px;
 }
 .UserGenericText{
 
 }
 .UserGenericBody{
-padding:5px 0px 0px 17px;
+padding:5px 0 0 17px;
 }
 .UserSectionTitle{
 font-weight:bold;
@@ -1220,7 +1220,7 @@ color:#FFFFFF;
 }
 .UserSectionHead{
 width:100%;
-padding:0px 0px 3px 0px;
+padding:0 0 3px;
 color:#FFFFFF;
 }
 .UserSectionFooter{
@@ -1229,7 +1229,7 @@ border-top:1px solid #454546
 }
 .UserSectionBody{
 width:100%;
-padding:0px 0px 0px 7px;
+padding:0 0 0 7px;
 }
 .UserControlGroup{
 padding-bottom:10px;
@@ -1237,28 +1237,28 @@ padding-top:2px;
 }
 .UserFooter{
 width:100%;
-padding:10px 7px 7px 7px;
+padding:10px 7px 7px;
 }
 .UserCommandArea{
 padding-top:7px;
 }
 .UserCellSelected{
 font-family:arial,helvetica;
-padding:1px 4px 2px 4px;
+padding:1px 4px 2px;
 background-color:#000000;
 border:solid 1px #FFFFFF;
 color:#cbdced;
 }
 .UserCell{
 font-family:arial,helvetica;
-padding:2px 5px 3px 5px;
+padding:2px 5px 3px;
 color:#cbdced;
 }
 .UserGenericBulletItem{
 padding-bottom:2px;
 }
 .ms-ToolPaneFrame{
-padding:0px;
+padding:0;
 background-color:#737373;
 }
 .ms-ToolPaneBody{
@@ -1300,7 +1300,7 @@ padding:2px;
 .ms-ToolPaneInfo{
 padding-right:5px;
 padding-top:5px;
-padding-bottom:0px;
+padding-bottom:0;
 padding-left:5px;
 color:#FFFFFF;
 font-family:arial,helvetica;
@@ -1588,10 +1588,10 @@ width:9px;
 background-color:#666666;
 border-top-color:#666666;
 border-top-style:solid;
-border-top-width:0px;
+border-top-width:0;
 border-bottom-color:#CCCCCC;
 border-bottom-style:solid;
-border-bottom-width:0px;
+border-bottom-width:0;
 }
 .ms-surveyGVVBarS{
 width:20px;
