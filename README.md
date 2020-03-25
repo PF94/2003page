@@ -14,8 +14,8 @@ Join instructions  [>>Here<<](CONTRIBUTING.md) <br>
 | Internet Explorer | 5.5         | 7           |
 | Firefox           | 3.5         | 3.6         |
 | Chrome            | 1.0         | 2.0         |
-| Safari            | ?           | 4.0         |
-| Opera             | ?           | 9.5         |
+| Safari            | 3.0?        | 4.0         |
+| Opera             | 7.0         | 9.5         |
 | Internet Channel  | Demo        | "v1024"     |
 
 ----
