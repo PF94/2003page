@@ -41,14 +41,14 @@ a:hover
 
 p
 {
-	font-size: 0.9em;
+	font-size: 1.2em;
 }
 	
 h1 /* used for Title */
 {
-	color: #4465A2;
-	font-size: 1.1em;
-	font-weight: normal;
+	color: #FFF;
+	font-size: 2.405em;
+	font-weight: bold;
 	vertical-align:bottom;
 	margin-top: 7px;
 	margin-bottom: 4px;
