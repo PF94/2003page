@@ -1,7 +1,7 @@
 # We at 2003page don't want:
 
 1. pointless drama/arguments regarding 2003page
-2. riske/suggestive content
+2. risky/suggestive content
 3. NSFW, really?
 4. modern HTML5, at least use HTML5 that IE8 supports, or IE9-supported HTML5 if really want to be somewhat expriemental.
 5. CSS3, too modern, and old browsers choke hard on CSS3, use frontpage's CSS or read the [CSS 2.2 speficiation](https://www.w3.org/TR/CSS22/)
