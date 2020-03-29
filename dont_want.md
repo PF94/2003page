@@ -7,4 +7,5 @@
 5. CSS3, too modern, and old browsers choke hard on CSS3, use frontpage's CSS or read the [CSS 2.2 speficiation](https://www.w3.org/TR/CSS22/)
 6. any links to mallicious programs, old or new, meme-y or not. Examples of what i mean: MEMZ, BonziBuddy, ILoveYou.
 7. scripts that lag down a internet browser just to get 0.00001 bitcoins, if you want money, find other ways other than putting a miner in your subsite. ._.
-8. raids in 2003tech Discord 2.0, if you're a contributor of 2003page while raiding Discord 2.0, your subsite will be redacted out of existence without a archived zip.
+8. any modifications to the "gource" bat/shell file without PF94's permission.
+9. raids in 2003tech Discord 2.0, if you're a contributor of 2003page while raiding Discord 2.0, your subsite will be redacted out of existence without a archived zip.
