@@ -19,6 +19,11 @@
     <style type="text/css"><!--
 	@import "Scripts/Widgets/Timer/TimerWidget.css";
 --></style>
+    <style type="text/css">
+/*<![CDATA[*/
+	@import "Scripts/Widgets/HTMLRegion/Paste.css";
+/*]]>*/
+</style>
     <script type="text/javascript" src="Scripts/iWebSite.js"></script>
     <script type="text/javascript" src="Scripts/Widgets/SharedResources/WidgetCommon.js"></script>
     <script type="text/javascript" src="Scripts/Widgets/Navbar/navbar.js"></script>
@@ -28,6 +33,7 @@
     <script type="text/javascript" src="Scripts/Widgets/YouTube/localizedStrings.js"></script>
     <script type="text/javascript" src="Scripts/Widgets/Timer/TimerWidget.js"></script>
     <script type="text/javascript" src="Scripts/Widgets/Timer/localizedStrings.js"></script>
+    <script type="text/javascript" src="Scripts/Widgets/HTMLRegion/Paste.js"></script>
     <script type="text/javascript" src="Not_Cursed_files/Not_Cursed.js"></script>
   </head>
   <body style="background: rgb(247, 246, 246); margin: 0pt; " onload="onPageLoad();" onunload="onPageUnload();">
@@ -91,7 +97,7 @@ new NavBar('widget0', 'Scripts/Widgets/Navbar', 'Scripts/Widgets/SharedResources
             <div id="widget1-youTube" class="youtube_widget"></div>
           </div>
           <script type="text/javascript"><!--//--><![CDATA[//><!--
-new YouTubeWidget('widget1', 'Scripts/Widgets/YouTube', 'Scripts/Widgets/SharedResources', '.', {"movieURL": "https:\/\/www.youtube.com\/v\/rzLIUgnKY40", "lastNormalizedAddress": "https:\/\/www.youtube.com\/watch?v=rzLIUgnKY40", "address": "https:\/\/www.youtube.com\/watch?v=rzLIUgnKY40", "showRelatedVideos": true});
+new YouTubeWidget('widget1', 'Scripts/Widgets/YouTube', 'Scripts/Widgets/SharedResources', '.', {"movieURL": "http:\/\/www.youtube.com\/v\/rzLIUgnKY40", "lastNormalizedAddress": "http:\/\/www.youtube.com\/watch?v=rzLIUgnKY40", "address": "http:\/\/www.youtube.com\/watch?v=rzLIUgnKY40", "showRelatedVideos": true});
 //--><!]]></script>
           <div id="id3" style="height: 100px; left: 300px; position: absolute; top: 252px; width: 100px; z-index: 1; " class="style_SkipStroke_1 shape-with-text">
             <div class="text-content graphic_textbox_layout_style_default_External_100_100" style="padding: 0px; ">
@@ -106,9 +112,21 @@ new YouTubeWidget('widget1', 'Scripts/Widgets/YouTube', 'Scripts/Widgets/SharedR
               <div class="graphic_textbox_layout_style_default"></div>
             </div>
           </div>
-          
-
-
+          <div class="com-apple-iweb-widget-timer" id="widget2" style="height: 50px; left: 492px; opacity: 1.00; position: absolute; top: 532px; width: 220px; z-index: 1; ">
+            <div id="widget2-timer" class="timer_widget noAutoPNGFixInTree"></div>
+          </div>
+          <script type="text/javascript"><!--//--><![CDATA[//><!--
+new TimerWidget('widget2', 'Scripts/Widgets/Timer', 'Scripts/Widgets/SharedResources', '.', {"labelsEnabled": 1, "2": "Not_Cursed_files\/2.png", "bg-cap-right": "Not_Cursed_files\/bg-cap-right.png", "fg-separator": "Not_Cursed_files\/fg-separator.png", "3": "Not_Cursed_files\/3.png", "9": "Not_Cursed_files\/9.png", "type": 1, "4": "Not_Cursed_files\/4.png", "5": "Not_Cursed_files\/5.png", "target": 2145888000000, "labelFontSize": 10, "6": "Not_Cursed_files\/6.png", "bg-cap-left": "Not_Cursed_files\/bg-cap-left.png", "bg-center": "Not_Cursed_files\/bg-center.png", "7": "Not_Cursed_files\/7.png", "0": "Not_Cursed_files\/0.png", "8": "Not_Cursed_files\/8.png", "1": "Not_Cursed_files\/1.png", "unitsRange": {"location": 0, "length": 5}});
+//--><!]]></script>
+          <div class="com-apple-iweb-widget-HTMLRegion" id="widget3" style="height: 380px; left: 45px; opacity: 1.00; position: absolute; top: 242px; width: 453px; z-index: 1; ">
+            <script type="text/javascript"><!--//--><![CDATA[//><!--
+    var widget3_htmlMarkupURL = ".//Not_Cursed_files/widget3_markup.html";
+//--><!]]></script>
+            <div id="widget3-htmlRegion" class="html_region_widget"></div>
+          </div>
+          <script type="text/javascript"><!--//--><![CDATA[//><!--
+new Paste('widget3', 'Scripts/Widgets/HTMLRegion', 'Scripts/Widgets/SharedResources', '.', {"emptyLook": false});
+//--><!]]></script>
           <div id="id6" style="height: 184px; left: 30px; position: absolute; top: 220px; width: 660px; z-index: 1; " class="style_SkipStroke_1 shape-with-text">
             <div class="text-content graphic_textbox_layout_style_default_External_660_184" style="padding: 0px; ">
               <div class="graphic_textbox_layout_style_default">
@@ -117,13 +135,7 @@ new YouTubeWidget('widget1', 'Scripts/Widgets/YouTube', 'Scripts/Widgets/SharedR
               <div style="clear: both; height: 0px; line-height: 0px; " class="tinyText"> </div>
             </div>
           </div>
-          <div class="com-apple-iweb-widget-timer" id="widget2" style="height: 50px; left: 492px; opacity: 1.00; position: absolute; top: 532px; width: 220px; z-index: 1; ">
-            <div id="widget2-timer" class="timer_widget noAutoPNGFixInTree"></div>
-          </div>
-          <script type="text/javascript"><!--//--><![CDATA[//><!--
-new TimerWidget('widget2', 'Scripts/Widgets/Timer', 'Scripts/Widgets/SharedResources', '.', {"labelsEnabled": 1, "2": "Not_Cursed_files\/2.png", "bg-cap-right": "Not_Cursed_files\/bg-cap-right.png", "fg-separator": "Not_Cursed_files\/fg-separator.png", "3": "Not_Cursed_files\/3.png", "9": "Not_Cursed_files\/9.png", "type": 1, "4": "Not_Cursed_files\/4.png", "5": "Not_Cursed_files\/5.png", "target": 2145888000000, "labelFontSize": 10, "6": "Not_Cursed_files\/6.png", "bg-cap-left": "Not_Cursed_files\/bg-cap-left.png", "bg-center": "Not_Cursed_files\/bg-center.png", "7": "Not_Cursed_files\/7.png", "0": "Not_Cursed_files\/0.png", "8": "Not_Cursed_files\/8.png", "1": "Not_Cursed_files\/1.png", "unitsRange": {"location": 0, "length": 5}});
-//--><!]]></script>
-          <div style="height: 620px; line-height: 620px; " class="spacer"> </div>
+          <div style="height: 622px; line-height: 622px; " class="spacer"> </div>
         </div>
         <div style="height: 100px; margin-left: 0px; position: relative; width: 700px; z-index: 15; " id="footer_layer">
           <div style="height: 0px; line-height: 0px; " class="bumper"> </div>
