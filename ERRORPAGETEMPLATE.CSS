@@ -1,24 +1,13 @@
 body
 {
 	font-family: "Segoe UI", "verdana", "arial";
-	background-image: url(http://2003page.ga/assets4every1/ie7_error/BACKGROUND_GRADIENT.JPG);
+	background-image: url(BACKGROUND_GRADIENT.JPG);
 	background-repeat: repeat-x;
 	background-color: #E8EAEF;
 	margin-top: 20px;
 	margin-left: 20px;
 	color: #575757;
 }
-
-body.securityError
-{
-	font-family: "Segoe UI", "verdana" , "Arial";
-	background-image: url(http://2003page.ga/assets4every1/ie7_error/BACKGROUND_GRADIENT_RED.JPG);
-	background-repeat: repeat-x;
-	background-color: #E8EAEF;
-	margin-top: 20px;
-	margin-left: 20px;
-}
-
 body.tabInfo
 {
 	background-image: none;
