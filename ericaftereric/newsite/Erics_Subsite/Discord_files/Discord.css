@@ -8,16 +8,16 @@
     font-weight: 700;
     letter-spacing: 0;
     line-height: 65px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
     opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
+    padding-bottom: 0;
+    padding-top: 0;
     text-align: left;
     text-decoration: none;
-    text-indent: 0px;
+    text-indent: 0;
     text-transform: none;
 }
 .paragraph_style_1 {
@@ -30,16 +30,16 @@
     font-weight: 700;
     letter-spacing: 0;
     line-height: 39px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
     opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
+    padding-bottom: 0;
+    padding-top: 0;
     text-align: left;
     text-decoration: none;
-    text-indent: 0px;
+    text-indent: 0;
     text-transform: none;
 }
 .style_SkipStroke {
@@ -59,17 +59,17 @@
     font-variant: normal;
     font-weight: 700;
     letter-spacing: 0;
-    line-height: 20px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
+    line-height: 20;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
     opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
+    padding-bottom: 0;
+    padding-top: 0;
     text-align: left;
     text-decoration: none;
-    text-indent: 0px;
+    text-indent: 0;
     text-transform: none;
 }
 .graphic_generic_title_textbox_style_default_SkipStroke {
@@ -131,20 +131,17 @@
     font-size: 1px;
     line-height: 1px;
 }
-body { 
+body {
     -webkit-text-size-adjust: none;
 }
-div { 
-    overflow: visible; 
+div {
+    overflow: visible;
 }
-img { 
-    border: none; 
+img {
+    border: none;
 }
-.InlineBlock { 
-    display: inline; 
-}
-.InlineBlock { 
-    display: inline-block; 
+.InlineBlock {
+    display: inline;
 }
 .inline-block {
     display: inline-block;

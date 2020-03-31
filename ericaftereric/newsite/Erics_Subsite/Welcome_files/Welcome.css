@@ -11,38 +11,38 @@
     font-weight: 700;
     letter-spacing: 0;
     line-height: 78px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
     opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
+    padding-bottom: 0;
+    padding-top: 0;
     text-align: left;
     text-decoration: none;
-    text-indent: 0px;
+    text-indent: 0;
     text-transform: none;
 }
 .paragraph_style_1 {
     color: rgb(121, 121, 121);
     font-family: 'HelveticaNeue-ThinItalic', 'Helvetica Neue';
-    font-size: 20px;
+    font-size: 20;
     font-stretch: normal;
     font-style: italic;
     font-variant: normal;
     font-weight: 200;
     letter-spacing: 0;
     line-height: 24px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
     opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
+    padding-bottom: 0;
+    padding-top: 0;
     text-align: left;
     text-decoration: none;
-    text-indent: 0px;
+    text-indent: 0;
     text-transform: none;
 }
 .style_SkipStroke_2 {
@@ -63,23 +63,23 @@
 .Body {
     color: rgb(121, 121, 121);
     font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
-    font-size: 20px;
+    font-size: 20;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
     font-weight: 700;
     letter-spacing: 0;
     line-height: 25px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
     opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
+    padding-bottom: 0;
+    padding-top: 0;
     text-align: left;
     text-decoration: none;
-    text-indent: 0px;
+    text-indent: 0;
     text-transform: none;
 }
 .Normal {
@@ -98,16 +98,16 @@
     font-weight: 700;
     letter-spacing: 0;
     line-height: 31px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
     opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
+    padding-bottom: 0;
+    padding-top: 0;
     text-align: left;
     text-decoration: none;
-    text-indent: 0px;
+    text-indent: 0;
     text-transform: none;
 }
 .graphic_generic_body_textbox_style_default_SkipStroke {
@@ -164,20 +164,17 @@
     font-size: 1px;
     line-height: 1px;
 }
-body { 
+body {
     -webkit-text-size-adjust: none;
 }
-div { 
-    overflow: visible; 
+div {
+    overflow: visible;
 }
-img { 
-    border: none; 
+img {
+    border: none;
 }
-.InlineBlock { 
-    display: inline; 
-}
-.InlineBlock { 
-    display: inline-block; 
+.InlineBlock {
+    display: inline;
 }
 .inline-block {
     display: inline-block;
