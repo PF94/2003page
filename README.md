@@ -9,14 +9,14 @@
 Join instructions  [>>Here<<](CONTRIBUTING.md) <br>
 
 # Minimum Versions
-| Browser           | Minimum     | Recommended |
-|-------------------|-------------|-------------|
-| Internet Explorer | 5.5         | 7           |
-| Firefox           | 3.5         | 3.6         |
-| Chrome            | 1.0         | 2.0         |
-| Safari            | 3.0?        | 4.0         |
-| Opera             | 7.0         | 9.5         |
-| Internet Channel  | Demo        | "v1024"     |
+| Browser               | Minimum     | Recommended |
+|-----------------------|-------------|-------------|
+| Internet Explorer     | 5.5         | 7           |
+| Firefox               | 3.5         | 3.6         |
+| Chrome                | 1.0         | 2.0         |
+| Safari                | 3.0?        | 4.0         |
+| Opera                 | 7.0         | 9.5         |
+| Wii Internet Channel  | Demo        | "v1024"     |
 
 ----
 ![2003page's Approval](http://2003page.ga/misc/promotionalmaterial/sealofapproval.png)
