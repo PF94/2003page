@@ -26,9 +26,22 @@ a:active {
     color: grey;
 }
 
-/* sidebar */
+/* right sidebar */
 .sidebar1 {
     float: right;
     width: 20%;
     padding-bottom: 10px;
+}
+
+/* left sidebar (add a left side bar?!?!?!?!?!?!?!?) */
+.sidebar2 {
+    float: left;
+    width: 20%;
+    padding-bottom: 10px;
+}
+
+/* yellow hightlight */
+span.yhighlight
+{
+    background-color:yellow
 }
