@@ -39,3 +39,22 @@ a:active {
     width: 20%;
     padding-bottom: 10px;
 }
+
+/* feat. forkiesassds */
+a#banner {
+    color: black;
+}
+
+a:visited#banner {
+    color: black;
+}
+
+/* mouse over link */
+a:hover#banner {
+    color: green;
+}
+
+/* selected link */
+a:active#banner {
+    color: grey;
+}
