@@ -1,3 +1,5 @@
+Sitemap: http://2003page.ga/sitemap/index.htm
+
 User-agent: Baiduspider
 Disallow: /
 
