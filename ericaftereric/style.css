@@ -1,7 +1,7 @@
 body {
     /* font and font colour */
     font-family: 'Roboto Condensed', sans-serif;
-    color:white;
+    color: white;
     /* background */
     background-image: url(../assets4every1/setup.png);
 }
@@ -38,10 +38,4 @@ a:active {
     float: left;
     width: 20%;
     padding-bottom: 10px;
-}
-
-/* yellow hightlight */
-span.yhighlight
-{
-    background-color:yellow
 }
