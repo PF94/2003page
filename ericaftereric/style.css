@@ -1,7 +1,9 @@
-/* font and font colour */
 body {
+    /* font and font colour */
     font-family: 'Roboto Condensed', sans-serif;
     color:white;
+    /* background */
+    background-image: url(../assets4every1/setup.png);
 }
 
 /* unvisited link */
