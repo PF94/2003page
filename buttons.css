@@ -78,17 +78,17 @@ a {
 .button9 {
 	width: 100px;
     height: 20px;
-	background: url("8745b.gif");
+	background: url("index_files/subsites/8745b.gif");
 }
 .button9:hover {
 	width: 100px;
     height: 20px;
-	background: url("8745c.gif");
+	background: url("index_files/subsites/8745c.gif");
 }
 .button9:active {
 	width: 100px;
     height: 20px;
-	background: url("8745d.gif");
+	background: url("index_files/subsites/8745d.gif");
 }
 .button10 {
 	width: 119px;
