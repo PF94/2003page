@@ -1,7 +1,9 @@
-/* font and font colour */
 body {
+    /* font and font colour */
     font-family: 'Roboto Condensed', sans-serif;
-    color:white;
+    color: white;
+    /* background */
+    background-image: url(../assets4every1/setup.png);
 }
 
 /* unvisited link */
@@ -24,9 +26,35 @@ a:active {
     color: grey;
 }
 
-/* sidebar */
+/* right sidebar */
 .sidebar1 {
     float: right;
     width: 20%;
     padding-bottom: 10px;
+}
+
+/* left sidebar (add a left side bar?!?!?!?!?!?!?!?) */
+.sidebar2 {
+    float: left;
+    width: 20%;
+    padding-bottom: 10px;
+}
+
+/* feat. forkiesassds */
+a#banner {
+    color: black;
+}
+
+a:visited#banner {
+    color: black;
+}
+
+/* mouse over link */
+a:hover#banner {
+    color: green;
+}
+
+/* selected link */
+a:active#banner {
+    color: grey;
 }

@@ -14,7 +14,7 @@ _vti_pvt/bots.cnf
 _vti_pvt/botinfs.cnf
 _vti_cnf/
 
-# disallow .exe files, please, zippify your .exe files, but, 2003page is NOT a file hoster.
+# disallow .exe files, please, zippify your .exe files, 2003page ain't a file hoster.
 *.exe
 
 # Visual Studio Code JSON Junk
@@ -27,8 +27,8 @@ _vti_cnf/
 !.vscode/extensions.json
 .history
 
-# promo logo
-/misc/promotionalmaterial/PromoLogo.png
+# iWeb junk, caused by EricAfterEric
+*.plist
 
 # -----------------------
 
