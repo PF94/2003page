@@ -123,32 +123,32 @@ a {
 .button14 {
 	width: 100px;
     height: 20px;
-	background: url("button1.jpg");
+	background: url("button1.gif");
 }
 .button14:hover {
 	width: 100px;
     height: 20px;
-	background: url("button2.jpg");
+	background: url("button2.gif");
 }
 .button14:active {
 	width: 100px;
     height: 20px;
-	background: url("button3.jpg");
+	background: url("button1.gif");
 }
 .button15 {
 	width: 100px;
     height: 20px;
-	background: url("button4.jpg");
+	background: url("button1.jpg");
 }
 .button15:hover {
 	width: 100px;
     height: 20px;
-	background: url("button5.jpg");
+	background: url("button2.jpg");
 }
 .button15:active {
 	width: 100px;
     height: 20px;
-	background: url("button6.jpg");
+	background: url("button3.jpg");
 }
 .button16 {
 	width: 217px;
