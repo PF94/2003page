@@ -8,7 +8,7 @@ a {
 .button1 {
 	width: 119px;
     height: 20px;
-	background: url("icanttellyou.gif");
+	background: url("index_files/subsites/icanttellyou.gif");
 }
 .button2 {
 	width: 90px;
@@ -78,22 +78,22 @@ a {
 .button9 {
 	width: 100px;
     height: 20px;
-	background: url("8745b.gif");
+	background: url("index_files/subsites/8745b.gif");
 }
 .button9:hover {
 	width: 100px;
     height: 20px;
-	background: url("8745c.gif");
+	background: url("index_files/subsites/8745c.gif");
 }
 .button9:active {
 	width: 100px;
     height: 20px;
-	background: url("8745d.gif");
+	background: url("index_files/subsites/8745d.gif");
 }
 .button10 {
 	width: 119px;
     height: 20px;
-	background: url("spudpiggy.gif");
+	background: url("index_files/subsites/spudpiggy.gif");
 }
 .button11 {
 	width: 100px;
@@ -113,42 +113,42 @@ a {
 .button12 {
 	width: 77px;
     height: 20px;
-	background: url("shadow.PNG");
+	background: url("index_files/subsites/shadow.PNG");
 }
 .button13 {
 	width: 65px;
     height: 20px;
-	background: url("ericaftereric.png");
+	background: url("index_files/subsites/ericaftereric.png");
 }
 .button14 {
 	width: 100px;
     height: 20px;
-	background: url("button1.jpg");
+	background: url("button1.gif");
 }
 .button14:hover {
 	width: 100px;
     height: 20px;
-	background: url("button2.jpg");
+	background: url("button2.gif");
 }
 .button14:active {
 	width: 100px;
     height: 20px;
-	background: url("button3.jpg");
+	background: url("button3.gif");
 }
 .button15 {
 	width: 100px;
     height: 20px;
-	background: url("button4.jpg");
+	background: url("button1.jpg");
 }
 .button15:hover {
 	width: 100px;
     height: 20px;
-	background: url("button5.jpg");
+	background: url("button2.jpg");
 }
 .button15:active {
 	width: 100px;
     height: 20px;
-	background: url("button6.jpg");
+	background: url("button3.jpg");
 }
 .button16 {
 	width: 217px;
