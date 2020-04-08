@@ -1,19 +1,19 @@
 <asx version = "3.0">
-  <title>Eric's MIDI jukebox, MIDIs are "remastered" in GarageBand</title>
+  <title>Animal Crossing Title Theme</title>
   <entry>
-    <title>CLOUDS.MID</title>
-    <ref href="clouds.mp3" />
+    <title>Animal Crossing: New Horizons</title>
+    <ref href="acnh.mp3" />
   </entry>
   <entry>
-    <title>FLOURISH.MID</title>
-    <ref href="flourish.mp3" />
+    <title>Animal Crossing: City Folk</title>
+    <ref href="accf.mp3" />
   </entry>
   <entry>
-    <title>TOWN.MID</title>
-    <ref href="town.mp3" />
+    <title>Animal Crossing (GameCube)</title>
+    <ref href="ac.mp3" />
   </entry>
   <entry>
-    <title>ONESTOP.MID</title>
-    <ref href="onestop.mp3" />
+    <title>Animal Crossing: New Leaf</title>
+    <ref href="acnl.mp3" />
   </entry>
 </asx>
