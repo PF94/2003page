@@ -9,41 +9,35 @@ body
 	margin-left: 20px;
 	color: #ffffff;
 }
-
-
 body.tabInfo
 {
 	background-image: none;
 	background-color: #F4F4F4;
 }
-       
 a
 {
-	color: rgb(19,112,171);	font-size: 1em;
+	color: rgb(19,112,171);
+	font-size: 1em;
 	font-weight: normal;
 	text-decoration: none;
 	margin-left: 0px;
 	vertical-align: top;
 }
-
 a:link, a:visited
 {
 	color: rgb(5, 159, 255);
 	text-decoration: none;
 	vertical-align: top;
 }
-
 a:hover
 {
 	color: rgb(10, 123, 204);
 	text-decoration: underline;
 }
-
 p
 {
 	font-size: 1.2em;
 }
-	
 h1 /* used for Title */
 {
 	color: #FFF;
@@ -53,20 +47,18 @@ h1 /* used for Title */
 	margin-top: 7px;
 	margin-bottom: 4px;
 }
-
 h2 /* used for Heading in Main Body */
 {
 	font-size: 0.9em;
 	font-weight: normal;
-	margin-top: 20px;	
+	margin-top: 20px;
 	margin-bottom: 1px;
 }
-
 h3 /* used for text in main body */
 {
 	font-size: 0.9em;
 	font-weight: normal;
-	margin-top: 10px;	
+	margin-top: 10px;
 	margin-bottom: 1px;
 }
 
@@ -83,19 +75,9 @@ h5 /* used for Heading in InfoBlock */
 	font-size: 1em;
 	font-weight: normal;
 	margin-bottom: 0px;
-	margin-top: 1px;	
-	font-size: 0.9em;
+	margin-top: 1px;
 	color: #575757;
 }
-
-
-.actionIcon /* used for task link icons */
-{
-	vertical-align: middle;
-	margin-top: 0px;
-	margin-right: 6px;
-}
-
 .infoBlock
 {
 	padding-left: 25px;
@@ -104,15 +86,6 @@ h5 /* used for Heading in InfoBlock */
 	line-height: 1.1em;
 	color: #575757;
 }
-
-
-.errorCodeAndDivider
-{
-	font-size: 0.7em;
-	font-weight: normal;
-	color: #787878;
-}
-
 ul, ol
 {
 	font-size: 0.9em;
@@ -123,7 +96,6 @@ ul, ol
 	padding-bottom: 1px;
 	line-height: 1.3em;
 }
-
 .divider
 {
 	border-bottom: #B6BCC6 1px solid;
