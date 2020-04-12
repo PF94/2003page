@@ -30,7 +30,7 @@ function getStylesheet() {
 	if (2 == mm && 14 == dd) {
 		document.write("<link rel='stylesheet' href='mainpage_valentines.css' type='text/css'>");
 	}
-	if (3 == mm && 5 == dd) {
+	if (5 == mm && 5 == dd) {
 		document.write("<link rel='stylesheet' href='mainpage_anniversary.css' type='text/css'>");
 	}
 	if (7 == mm && 25 >= dd) {
