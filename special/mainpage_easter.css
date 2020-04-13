@@ -9,7 +9,7 @@ body
 	background: -o-linear-gradient(top, rgb(104, 155, 232) 0%,rgb(36, 156, 237) 100%); /* Opera 11.10-11.50 */
 	background: -ms-linear-gradient(top, rgb(104, 155, 232) 0%,rgb(36, 156, 237) 100%); /* IE10 beta */
 	background: linear-gradient(to bottom, rgb(104, 155, 232) 0%,rgb(36, 156, 237) 100%); /* W3C, IE10+, FF16+, Chrome 26+, Opera 12+, Safari 7+ */
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4a81ff', endColorstr='#afdae3',GradientType=0 ); /* IE 5.5-8 */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#689be8', endColorstr='#afdae3',GradientType=0 ); /* IE 5.5-8 */
 	background-repeat: repeat-x;
 	background-color: rgb(36, 156, 237); /* fixes white-void issue on firefox along with white-background issue on frontpage 2003 */
 }
