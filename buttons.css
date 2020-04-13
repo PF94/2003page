@@ -138,17 +138,17 @@ a {
 .button15 {
 	width: 100px;
     height: 20px;
-	background: url("button1.jpg");
+	background: url("button4.gif");
 }
 .button15:hover {
 	width: 100px;
     height: 20px;
-	background: url("button2.jpg");
+	background: url("button5.gif");
 }
 .button15:active {
 	width: 100px;
     height: 20px;
-	background: url("button3.jpg");
+	background: url("button6.gif");
 }
 .button16 {
 	width: 217px;
