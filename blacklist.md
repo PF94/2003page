@@ -1,5 +1,5 @@
 # Blacklisted people
-If they're listed, they are not allowed to be part of 2003page
+If they're listed, they are not allowed to be part of 2003page and 2003tech.
 
 * Pedrox/InSanicTH: Threats of hacking PF94's Discord Account
 
