@@ -5,6 +5,8 @@ button {
 a {
 	display: inline-block;
 }
+
+/* Keep ICTY button's code still implemented to avoid fuckeries */
 .button1 {
 	width: 119px;
     	height: 20px;
