@@ -5,5 +5,4 @@ Disallow: /
 
 # User-agent: *
 # Disallow: /wii/
-# Disallow: /blog/
 # Disallow: /misc/

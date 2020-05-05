@@ -6,7 +6,7 @@ a {
 	display: inline-block;
 }
 
-/* Keep ICTY button's code still implemented to avoid fuckeries */
+/* Code for the button below is unused, don't remove it. */
 .button1 {
 	width: 119px;
     	height: 20px;
@@ -115,6 +115,7 @@ a {
 	background: url("index_files/subsites/spudpiggy.gif");
 	background-repeat:no-repeat;
 }
+/* Code for the button below is unused, don't remove it. */
 .button11 {
 	width: 100px;
     	height: 20px;
