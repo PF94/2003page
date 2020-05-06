@@ -16,13 +16,13 @@ a {
 .button2 {
 	width: 90px;
     	height: 20px;
-	background: url("button20.gif");
+	background: url("buttons/button20.gif");
 	background-repeat:no-repeat;
 }
 .button2:hover {
 	width: 90px;
     	height: 20px;
-	background: url("button21.gif");
+	background: url("buttons/button21.gif");
 	background-repeat:no-repeat;
 }
 .button2:active {
