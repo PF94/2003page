@@ -1,1 +1,1 @@
-2003page's contribution rules are at http://2003page.ga/misc/CONTRIBUTING.
+2003page's contribution rules are at http://2003page.ga/misc/CONTRIBUTING. Don't read the "Don't want" crap, it's fucking outdated.
