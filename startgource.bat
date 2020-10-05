@@ -1,1 +1,1 @@
-gource -s 2 -max-file-lag 0.001 -a 0.01 
+gource -s 10 -max-file-lag 0.001 -a 0.01 
