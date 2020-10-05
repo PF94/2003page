@@ -32,13 +32,13 @@ function getStylesheet() {
 	}
 	if (5 == mm && 5 == dd) {
 		document.write("<link rel='stylesheet' href='special/mainpage_anniversary.css' type='text/css'>");
-	}
-	if (7 == mm && 25 >= dd) {
-		document.write("<link rel='stylesheet' href='special/mainpage_aero.css' type='text/css'>");
-	}
-	if (8 == mm && 1 >= dd) {
-		document.write("<link rel='stylesheet' href='special/mainpage_aero.css' type='text/css'>");
-	}
+//	}
+//	if (7 == mm && 25 >= dd) {
+//		document.write("<link rel='stylesheet' href='special/mainpage_aero.css' type='text/css'>");
+//	}
+//	if (8 == mm && 1 >= dd) {
+//		document.write("<link rel='stylesheet' href='special/mainpage_aero.css' type='text/css'>");
+//	}
 	if (10 == mm && 18 == dd) {
 		document.write("<link rel='stylesheet' href='special/mainpage_geekia.css' type='text/css'>");
 	}
