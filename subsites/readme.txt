@@ -1,8 +1,6 @@
 2003page Readme
 [LAST UPDATED 10/5/2020 BY CHAZ]
 
-IMPORTANT UPDATE: After 2003page's folder structure was changed into a more Project Phoenix-like, a lot of subsites just broke. I am going to repair this problem.
-
 The folders you see here are the code and assets of so-called "subsites", sub-directories (actually sub-sub-directories) on 2003page that fell like they're their own website.
 
 Some "subsites" no longer exist, as they were moved (ethier to Retrosite, or for the case of the PF94 subsite, spun off into it's own now-abandonned website). The archived zip files, available prior to the reopening of 2003page (10/5/2020) have been purged, along with other unused junk.
