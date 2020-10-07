@@ -27,7 +27,6 @@ copy "contributing\Retiring\TEMPLATE.html" "%CHOICE%"
 cd %choice%
 ren TEMPLATE.html index.html
 cd..
-ren "contributing\Retiring\retired.png" "%CHOICE%"
 echo Generating message
 cd %choice%
 echo WARNING > readme.txt
@@ -40,8 +39,13 @@ echo User's PATH: %Path% >> readme.txt
 echo If this is vandalism, revert this commit, if not, then do nothing, but keep this file for reference's sakes. >> readme.txt
 echo Doing Git Shenanigans...
 git add
-git commit -a -m "Deleting subsite [%choice%] with 2003page Purger Tool"
+git commit -a -m "Deleting subsite [%choice%] with 2003page Purger Tool - Part 1"
 git push
+echo Repeating Git Shenanigans...
+git add
+git commit -a -m "Deleting subsite [%choice%] with 2003page Purger Tool - Part 2"
+git push
+echo DONE
 pause
 exit
 
