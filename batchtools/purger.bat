@@ -19,7 +19,25 @@ set /p OPTION= "[Y/N]"
 IF "%OPTION%"=="N" goto option
 IF "%OPTION%"=="Y" goto ohfuck
 :ohfuck
+echo Purging subsite
 RD %choice% /s /q
+Copying retired subsite template
+MD %choice%
+copy "contributing\Retiring\TEMPLATE.html" "%CHOICE%"
+cd %choice%
+ren TEMPLATE.html index.html
+cd..
+ren "contributing\Retiring\retired.png" "%CHOICE%"
+echo Generating message
+cd %choice%
+echo WARNING > readme.txt
+echo This subsite was purged by the internal public Batch application known as chaz!zTech 2003page Subsite Purger >> readme.txt
+echo A list about the infomation of whoever operated this command can be seen below >> readme.txt
+echo Computer: %COMPUERNAME% >> readme.txt
+echo Windows Username: %USERNAME% >> readme.txt
+echo Windows Installation Folder: %SystemRoot% >> readme.txt
+echo User's PATH: %Path% >> readme.txt
+echo If this is vandalism, revert this commit, if not, then do nothing, but keep this file for reference's sakes. >> readme.txt
 echo Doing Git Shenanigans...
 git add
 git commit -a -m "Deleting subsite [%choice%] with 2003page Purger Tool"
