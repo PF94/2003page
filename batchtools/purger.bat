@@ -20,7 +20,7 @@ IF "%OPTION%"=="Y" goto ohfuck
 :ohfuck
 RD %choice% /s /q
 echo Doing Git Shenanigans...
-git add
+git add .
 git commit -a
 git push
 pause
