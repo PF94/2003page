@@ -33,7 +33,7 @@ cd %choice%
 echo WARNING > readme.txt
 echo This subsite was purged by the internal public Batch application known as chaz!zTech 2003page Subsite Purger >> readme.txt
 echo A list about the infomation of whoever operated this command can be seen below >> readme.txt
-echo Computer: %COMPUERNAME% >> readme.txt
+echo Computer: %COMPUTERNAME% >> readme.txt
 echo Windows Username: %USERNAME% >> readme.txt
 echo Windows Installation Folder: %SystemRoot% >> readme.txt
 echo User's PATH: %Path% >> readme.txt
