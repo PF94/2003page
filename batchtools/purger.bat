@@ -43,6 +43,7 @@ git add
 git commit -a -m "Deleting subsite [%choice%] with 2003page Purger Tool"
 git push
 pause
+end
 
 :ERROR
 echo Invalid
