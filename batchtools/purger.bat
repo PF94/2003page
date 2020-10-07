@@ -21,6 +21,6 @@ IF "%OPTION%"=="Y" goto ohfuck
 RD %choice% /s /q
 echo Doing Git Shenanigans...
 git add
-git commit -a -m "Deleting %choice% with 2003page Purger Tool"
+git commit -a -m "Deleting subsite [%choice%] with 2003page Purger Tool"
 git push
 pause
