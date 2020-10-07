@@ -12,6 +12,7 @@ pause
 color 1F
 dir
 set /p choice= "Please select a subsite to nuke :"
+IF "%CHOICE%"=="contributing" goto ERROR
 color 4F
 echo Do you want to nuke the '%choice%' subsite?
 set /p OPTION= "[Y/N]"
@@ -24,3 +25,8 @@ git add
 git commit -a -m "Deleting subsite [%choice%] with 2003page Purger Tool"
 git push
 pause
+
+:ERROR
+echo Invalid
+pause
+goto option
