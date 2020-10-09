@@ -49,4 +49,5 @@ function getStylesheet() {
 		document.write("<link rel='stylesheet' href='special/mainpage_christmas.css' type='text/css'>");
 	}
 }
+}
 getStylesheet();
