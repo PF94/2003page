@@ -1,0 +1,1 @@
+Assets for the site are stored here like images.
