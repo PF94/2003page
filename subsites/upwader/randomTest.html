@@ -1,14 +1,16 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
-<head>
-<meta charset="utf-8">
-    
-    <p>it probably wont work but try</p>
+<body>
 
-<button onclick="forChan()">Try</button>
+<p>Click the button to display a random number.</p>
+
+<button onclick="myFunction()">Try it</button>
+
+<p id="forchan"></p>
     
 <script>
 function forChan () {
+    document.getElementById("forchan").innerHTML
     // get a random number between 0 and 3
     //
     var randNum = Math.floor(Math.random() * 2);
@@ -34,5 +36,4 @@ function forChan () {
 
         window.open(randURLs[randURL]);
     }
-</style>
 </html>
