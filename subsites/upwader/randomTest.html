@@ -1,40 +1,13 @@
-<!DOCTYPE html>
-<html>
-<body>
-<head>
-<script>
-function forChan() {
-    // get a random number between 0 and 3
-    //
-    var randNum = Math.floor(Math.random() * 2);
+<!doctype html>
+<script type="text/javascript">
 
-    // An array of URL's
-    var randURLs = [
-        "https://youtube.com",
-        "https://twitter.com",
-        "https://facebook.com"
-    ];
+var urls = new Array();
+urls[0] = "https://youtube.com";
+urls[1] = "https://facebook.com/";
+urls[2] = "https://twitter.com";
 
-    // There was a 1 in 3 chance we generated a zero.
-    if (randNum == 0) {
-        // randURLs.length will tell us how many elements are
-        // in the randURLs array - we can use this to generate
-        // a random number between 0 and n (number of elements)
-        //
-        // In our case there are 3 elements in the array, 0, 1
-        // and 2. So we want to get another random number in
-        // the inclusive range 0 - 2
-        //
-        var randURL = Math.floor(Math.random() * randURLs.length);
+var random = Math.floor(Math.random()*urls.length);
 
-        window.open(randURLs[randURL]);
-    }
+window.location = urls[random];
+
 </script>
-
-<p>It wont work, but you can try!</p>
-
-<button onclick="forChan()">Try</button>
-
-</body>
-</html>
-</head>
