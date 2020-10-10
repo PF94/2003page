@@ -1,1 +1,1 @@
-gource --save-config config.txt
+gource --load-config config.txt
