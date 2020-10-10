@@ -1,6 +1,6 @@
 [gource]
 auto-skip-seconds=0.01
 max-file-lag=0.001
-seconds-per-day=2
+seconds-per-day=5
 title=2003page
 
