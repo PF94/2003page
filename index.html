@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
     <head>
+		<head>
+			<head>
+				<head>
         <meta http-equiv="Content-Language" content="en-us" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
@@ -16,7 +19,6 @@
         <nav id="nav" class="navbar navbar-light navbar-expand-lg fixed-top clean-navbar" style="background-color: #ffffff; padding: 0px; height: 59px;">
             <div class="container">
                 <button data-toggle="collapse" class="navbar-toggler" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
-                <img src="assets/Icon.png" style="width: 57px; padding: 0px;" />
                 <div class="collapse navbar-collapse" id="navcol-1">
                     <ul class="nav navbar-nav ml-auto" style="width: 700px;">
                         <li class="nav-item" role="presentation"><a class="nav-link" href="subsites/contributing" style="background-color: #ffffff;">Contirbuting</a></li>
@@ -32,7 +34,28 @@
             <br />
             <br />
             <br />
-            <img style="display: block; max-width:100%; height: auto; margin-left: auto; margin-right: auto;" src="assets/Logo.png" alt="2003page logo" />
+				<!--THE LOGOMIZER FROM WAPPLE-->
+				<script type="text/javascript">
+				  var imageURLs = [
+					   "https://cdn.discordapp.com/attachments/763865529911214090/764650181001871360/unknown.png"
+					 , "https://cdn.discordapp.com/attachments/763865529911214090/764650234768392242/66164f188589ed9b7a85045df4d3c8c2def9cc9c.png"
+					 , "https://cdn.discordapp.com/attachments/763865529911214090/764650305227980820/681287830131048458.png"
+					 , "https://2003page.upwader.com/assets/Logo.png"
+				  ];
+				  function getImageTag() {
+					var img = '<img src=\"';
+					var randomIndex = Math.floor(Math.random() * imageURLs.length);
+					img += imageURLs[randomIndex];
+					img += '\" alt=\The Logomizer!\ style="display: block; max-width:100%; height: auto; margin-left: auto; margin-right: auto; "/>';
+					return img;
+				  }
+				</script>
+				</head>
+				<body>
+				<script type="text/javascript">
+				  document.write(getImageTag());
+				</script>
+				<!--End of Logomizer-->
             <br />
             <p style="font-size: 20px; text-align: center; color: white;"><i>The collaborative open source site that everyone can contribute to.</i></p>
             <div style="margin: auto;">
