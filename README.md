@@ -4,7 +4,7 @@ The open source collaborative website.
 
 # What is 2003page?
 
-2003page is a website that's fully open source. It's using the People can contribute to 2003page freely.
+2003page is a website that's fully open source. People can contribute to 2003page freely.
 
 # Q&A
 
