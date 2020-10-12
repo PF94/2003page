@@ -21,7 +21,7 @@ A: It did, from May 9th (i think) 2020 to October 4th 2020. The project was late
 
 Q: This doesn't look 2003-y.
 
-A: We moved from fake nostalgia, when I added gradients to the main page in March 2020, it got nicknamed "2007page" by a former contributor, when I modernized the main page later in October 2020, it got nicknamed "2015page" by said contributor.
+A: We moved from fake nostalgia, when I added gradients to the main page in March 2020, it got nicknamed "2007page" by a former contributor, when I modernized the main page later in October 2020, it got nicknamed "2015page" by said contributor. It should be noted that the older subsites look more 2003-y (well, more like late-90sy), because they were made in a different era of 2003page, before Retrosite existed.
 
 Q: Gamerappa/Parappafan94? That name is famillar
 
