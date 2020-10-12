@@ -3,4 +3,3 @@ auto-skip-seconds=0.01
 max-file-lag=0.001
 seconds-per-day=15
 title=2003page
-font-size=9
