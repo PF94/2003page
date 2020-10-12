@@ -1,5 +1,11 @@
 [gource]
 auto-skip-seconds=0.01
 max-file-lag=0.001
-seconds-per-day=15
+seconds-per-day=7.5
 title=2003page
+background-colour=1F0C3B
+highlight-users=true
+user-scale=1.25
+user-friction=10
+highlight-dirs=true
+dir-font-size=11
