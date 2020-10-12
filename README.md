@@ -1,11 +1,20 @@
 # 2003page
-This is 2003page, the open source collaborative website that launched in 2019.
+
+The open source collaborative website.
+
+# What is 2003page?
+
+2003page is a website that's fully open source. It's using the People can contribute to 2003page freely.
 
 # Q&A
 
 Q: How can I participate in 2003page
 
 A: Ask Gamerappa#0162 on Discord, he will give you contributor permissions for the 2003page repository.
+
+Q: Where should I put my large files?
+
+A: We recommend that you put large files (this includes videos and executables) onto a external file hoster, GitHub repositories are recommended to be less than 5 GB in size, ideally 1 GB. We currently do not support Git LFS, however we might start supporting it in the near future.
 
 Q: InfinityFreeHosting and 000webhost exists, why does this need to exist?
 
