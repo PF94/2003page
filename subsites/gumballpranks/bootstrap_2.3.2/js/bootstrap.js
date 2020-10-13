@@ -1592,8 +1592,8 @@
     this.$scrollElement = $element.on("scroll.scroll-spy.data-api", process);
     this.selector =
       (this.options.target ||
-        ((href = $(element).attr("href")) &&
-          href.replace(/.*(?=#[^\s]+$)/, "")) || //strip for ie7
+      ((href = $(element).attr("href")) &&
+        href.replace(/.*(?=#[^\s]+$)/, "")) || //strip for ie7
         "") + " .nav li > a";
     this.$body = $("body");
     this.refresh();
