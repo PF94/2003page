@@ -1,13 +1,11 @@
-<!doctype html>
+<!DOCTYPE html>
 <script type="text/javascript">
+  var urls = new Array();
+  urls[0] = "http://2003page.upwader.com/subsites/upwader/trolled.html";
+  urls[1] = "http://2003page.upwader.com/subsites/upwader/4wader.html";
+  urls[2] = "http://2003page.upwader.com/subsites/upwader/facewader.html";
 
-var urls = new Array();
-urls[0] = "http://2003page.upwader.com/subsites/upwader/trolled.html";
-urls[1] = "http://2003page.upwader.com/subsites/upwader/4wader.html";
-urls[2] = "http://2003page.upwader.com/subsites/upwader/facewader.html";
+  var random = Math.floor(Math.random() * urls.length);
 
-var random = Math.floor(Math.random()*urls.length);
-
-window.location = urls[random];
-
+  window.location = urls[random];
 </script>
