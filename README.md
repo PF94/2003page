@@ -6,6 +6,10 @@ The open source collaborative website.
 
 2003page is a website that's fully open source. People can contribute to 2003page freely.
 
+# Design (outside of subsites)
+
+The main page and other associated pages (including the Contributing guide) uses the Slate Bootswatch theme, which can be found at https://bootswatch.com/slate. You can use anything you want in your subsite. You're not restricted to the "Slate" theme for Bootstrap.
+
 # Q&A
 
 Q: How can I participate in 2003page
