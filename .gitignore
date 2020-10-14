@@ -92,3 +92,8 @@ $RECYCLE.BIN/
 # End of https://www.gitignore.io/api/macos,windows
 # --------------------
 *.sfk
+*.avi
+*.iso
+*.img
+*.ima
+*.torrent
