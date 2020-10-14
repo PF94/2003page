@@ -1,8 +1,0 @@
-{
-  "name": "prettier",
-  "description": "Makes code not messy.",
-  "version": "2.1.2",
-  "dependencies": {
-    "gource": "0.0.0"
-  }
-}
