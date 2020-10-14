@@ -1,10 +1,6 @@
-# 2003page
-
-The open source collaborative website.
-
 # What is 2003page?
 
-2003page is a website that's fully open source. People can contribute to 2003page freely.
+2003page is a open source website. People can contribute to 2003page freely.
 
 # Design (outside of subsites)
 
@@ -35,6 +31,10 @@ A: It did, from May 9th (i think) 2020 to October 4th 2020. The project was late
 Q: This doesn't look 2003-y.
 
 A: We moved from fake nostalgia, when I added gradients to the main page in March 2020, it got nicknamed "2007page" by a former contributor, when I modernized the main page later in October 2020, it got nicknamed "2015page" by said contributor. It should be noted that the older subsites look more 2003-y (well, more like late-90sy), because they were made in a different era of 2003page, before Retrosite existed.
+
+Q: Is this a ripoff of RetroSite?
+
+A: RetroSite launched sometime around early-2020, while 2003page first launched on May 5th 2019. So no, XPUser's of this being a "chinese retrosite" is absolute total bull.
 
 Q: Gamerappa/Parappafan94? That name is famillar
 
