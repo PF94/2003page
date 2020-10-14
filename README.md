@@ -1,4 +1,3 @@
-# 2003page
 
 # What is 2003page?
 
