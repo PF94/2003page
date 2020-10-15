@@ -18,7 +18,7 @@ A: We recommend that you put large files (this includes videos and executables) 
 
 Q: InfinityFreeHosting and 000webhost exists, why does this need to exist?
 
-A: 2003page was created by me (and RetroSite creator XPuser) in May 4th 2019 as a expriemental project. While the free site hosting services aren't "static page hosting" (so they support stuff like PHP, we can't), compared to 2003page, they are kinda controversal and scummy.
+A: 2003page was created by me (and RetroSite creator XPuser) in May 4th 2019 as an experimental project. While the free site hosting services aren't "static page hosting" (so they support stuff like PHP, we can't), compared to 2003page, they are kinda controversal and scummy.
 
 Q: Can I use Frontpage 2003 or a very old WYSIWYG website application?
 
