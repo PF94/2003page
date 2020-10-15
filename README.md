@@ -18,7 +18,7 @@ A: We recommend that you put large files (this includes videos and executables) 
 
 Q: InfinityFreeHosting and 000webhost exists, why does this need to exist?
 
-A: 2003page was created by me (and RetroSite creator XPuser) in May 4th 2019 as a expriemental project. While the free site hosting services aren't "static page hosting" (so they support stuff like PHP, we can't), compared 2003page, they are kinda controversal and scummy.
+A: 2003page was created by me (and RetroSite creator XPuser) in May 4th 2019 as an experimental project. While the free site hosting services aren't "static page hosting" (so they support stuff like PHP, we can't), compared to 2003page, they are kinda controversal and scummy.
 
 Q: Can I use Frontpage 2003 or a very old WYSIWYG website application?
 
@@ -34,7 +34,7 @@ A: We moved from fake nostalgia, when I added gradients to the main page in Marc
 
 Q: Is this a ripoff of RetroSite?
 
-A: RetroSite launched sometime around early-2020, while 2003page first launched on May 5th 2019. So no, XPUser's of this being a "chinese retrosite" is absolute total bull.
+A: RetroSite launched sometime around early-2020, while 2003page first launched on May 5th 2019. So no, XPUser's claims of this being a "chinese retrosite" is absolute total bull.
 
 Q: Gamerappa/Parappafan94? That name is famillar
 
@@ -42,4 +42,4 @@ A: Yes, I'm the guy who was trolled by a tech community in mid-2016, or the guy 
 
 Q: I want to quit 2003page. Please delete my subsite.
 
-A: An application exists called "chaz!zTech 2003page Subsite Purger", it was programmed by Gamerappa to ease the deletion of subsites. It's still in beta, but you can execute the batch file to get rid of your subsite. Do not use this to vandalize other people's subsites.
+A: An application exists called the "2003page Subsite Purger", it was programmed by Gamerappa to ease the deletion of subsites. It's still in beta, but you can execute the batch file to get rid of your subsite. Do not use this to vandalize other people's subsites.
