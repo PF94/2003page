@@ -1,3 +1,4 @@
 "ignoredFiles": [
-    "batchtools/gource_commands/PFPs/*"
+	"batchtools/gource_commands/PFPs/*"
+    "batchtools/gource_commands/*"
 ]
