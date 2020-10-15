@@ -6,7 +6,6 @@ title=2003page
 background-colour=1F0C3B
 highlight-users=true
 user-scale=1.25
-user-friction=3
 highlight-dirs=true
 dir-font-size=11
 file-font-side=9
