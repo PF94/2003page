@@ -1,6 +1,6 @@
 [gource]
 auto-skip-seconds=0.001
-max-file-lag=0.001
+max-file-lag=0.000001
 seconds-per-day=5
 title=2003page
 background-colour=1F0C3B
@@ -9,3 +9,7 @@ user-scale=1.25
 highlight-dirs=true
 dir-font-size=11
 file-font-side=9
+logo=logo.png
+key=true
+viewport=1280x720
+filename-time=2
