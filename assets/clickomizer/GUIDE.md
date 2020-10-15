@@ -27,6 +27,8 @@ MODIFY THE URL NUMBER. I CANT STRESS THIS ENOUGH
 
 ## Text above is a joke, please dont submit BDSM or any porn to the Clickomizer, since it's not allowed.
 
-## I'M TALKING TO YOU, GUMBALLPRANKS
+Dont even think joining RetroSite/TWTACCT if that's what you're only going to do.
+
+## I'M TALKING TO YOU, GUMBALL PRANKS
 
 upwader.com
