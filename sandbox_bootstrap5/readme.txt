@@ -6,4 +6,6 @@ Shit will break from time to time. Don't worry.
 
 IMPORTANT INFOMATION
 
-2003PAGE'S BRANDING IS $purple-500 FOR BOOTSTRAP 5, and yes, the design (as of writing this) is a placeholder, new logo will be SVG.
+2003PAGE'S BRANDING IS $purple-500 FOR BOOTSTRAP 5, and yes, the design (as of writing this) is a placeholder, new logo will be SVG. -PF94
+
+TODO: GET SASS TO WORK, I SWEAR TO FUCKING GOD, THIS IS USEFUL, I SWEAR.
