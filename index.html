@@ -18,8 +18,34 @@
             type="text/css"
             href="assets\bootstrap\customized\bootstrap_slate.css"
           />
+		  
           <!-- Standard bootstrap CSS, will break once bootstrap 5 comes out -->
           <!-- JS, Popper.js, and jQuery -->
+		  <script type="text/javascript">
+browser = navigator.appName;
+ver = navigator.appVersion;
+version = ver.substring(0, ver.indexOf(' '));
+if (browser == "Internet Explorer") {
+    if (version <= "8.1")
+        document.location.href = "lores.htm";
+}
+if (browser == "Safari") {
+    if (version <= "6.0")
+        document.location.href = "lores.htm";
+}
+if (browser == "Firefox") {
+    if (version <= "5.0")
+        document.location.href = "lores.htm";
+}
+if (browser == "Chrome") {
+    if (version <= "15.0")
+        document.location.href = "lores.htm";
+}
+if (browser == "Opera") {
+    if (version <= "11.10")
+        document.location.href = "lores.htm";
+}
+</script>
           <script
             src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
             integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
