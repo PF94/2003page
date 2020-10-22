@@ -98,3 +98,6 @@ $RECYCLE.BIN/
 *.ima
 *.torrent
 PROPER_GOURCE_HISTORY.txt
+bc.txt
+bloatchecker.bat
+bloatchecker with log.bat
