@@ -1,1 +1,1 @@
-Assets for the site are stored here like images.
+Assets for the main pages are stored here like images.
