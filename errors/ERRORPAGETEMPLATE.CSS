@@ -43,7 +43,7 @@ p
 	
 h1 /* used for Title */
 {
-	color: #4465A2;
+	color: #7EAAFF;
 	font-size: 1.1em;
 	font-weight: normal;
 	vertical-align:bottom;
@@ -99,7 +99,7 @@ h5 /* used for Heading in InfoBlock */
 	font-size: 0.9em;
 	display: block;
 	line-height: 1.1 em;
-	color: #575757;
+	color: #fff;
 }
 
 .errorCodeAndDivider
