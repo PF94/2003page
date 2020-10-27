@@ -17,4 +17,4 @@ The clickomizer is an HTML file that redirects you to one of these files when th
 
 ## Gimme that source code or i shoot
 
-Clickomizer HTML is located at the root. 2003page/Clickomizer.html
+Clickomizer HTML is located at this directory.
