@@ -19,7 +19,7 @@ function getStylesheet() {
 	month = 3 + f((L + 40)/44),
 	day = L + 28 - 31 * f(month / 4);
 	if (1 == mm && 15 == dd) {
-		document.write("<link rel='stylesheet' href='special/mainpage_gamerappa.css' type='text/css'>");
+		document.write("<link rel='stylesheet' href='special/mainpage_pf94.css' type='text/css'>");
 	}
 	if (2 == mm && 1 == dd) {
 		document.write("<link rel='stylesheet' href='special/mainpage_rover.css' type='text/css'>");
@@ -32,13 +32,16 @@ function getStylesheet() {
 	}
 	if (5 == mm && 5 == dd) {
 		document.write("<link rel='stylesheet' href='special/mainpage_anniversary.css' type='text/css'>");
-//	}
-//	if (7 == mm && 25 >= dd) {
-//		document.write("<link rel='stylesheet' href='special/mainpage_aero.css' type='text/css'>");
-//	}
-//	if (8 == mm && 1 >= dd) {
-//		document.write("<link rel='stylesheet' href='special/mainpage_aero.css' type='text/css'>");
-//	}
+	}
+	if (5 == mm && 14 == dd) {
+		document.write("<link rel='stylesheet' href='special/mainpage_canberra.css' type='text/css'>");
+	}
+	if (7 == mm && 25 >= dd) {
+		document.write("<link rel='stylesheet' href='special/mainpage_aero.css' type='text/css'>");
+	}
+	if (8 == mm && 1 >= dd) {
+		document.write("<link rel='stylesheet' href='special/mainpage_aero.css' type='text/css'>");
+	}
 	if (10 == mm && 18 == dd) {
 		document.write("<link rel='stylesheet' href='special/mainpage_geekia.css' type='text/css'>");
 	}
