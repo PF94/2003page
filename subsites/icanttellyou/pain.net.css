@@ -1,0 +1,21 @@
+html {
+	font-family: Comic Sans MS;
+	color: #00ff00;
+	background-color: #ff0000;
+}
+
+a {
+	color: #133713;
+}
+
+a:hover {
+	color: #696969;
+}
+
+a:active {
+	color: #420420;
+}
+
+.center {
+	text-align: center;
+}

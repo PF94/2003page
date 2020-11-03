@@ -1,0 +1,28 @@
+html {
+	font-family: Segoe UI;
+	color: #000;
+	background-color: #fff;
+}
+
+a {
+	color: #008c7f;
+}
+
+a:hover {
+	color: #00ccb9;
+}
+
+a:active {
+	color: #007d72;
+}
+
+.center {
+	text-align: center;
+}
+
+@media only screen and (prefers-color-scheme: dark) {
+	html {
+		color: #fff;
+		background-color: #000;
+	}
+}
