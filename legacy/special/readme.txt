@@ -9,7 +9,6 @@ Here is a list of the Special CSS, taken from 2003page issue #91 (now deleted), 
     Valentines Day (Febuary 24th, Red-to-pink)
     2003page's Aniversary (May 5th, Grey-to-black)
     Canberra's birthday (May 14th, Tan-to-orange)
-    Morning Aerobics (July 25th to August 31st, Orange to dark-orange/brown) <-- this might be removed.
     MessengerGeekia's Aniversary (October 18th, White to grey)
     Halloween (October 31st, Orange to black)
     Christmas (December 24th to 26th, red to green)
