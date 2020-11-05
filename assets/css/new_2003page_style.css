@@ -1,7 +1,7 @@
 html {
 	font-family: Segoe UI;
-	color: #000;
-	background-color: #fff;
+	color: #fff;
+	background-color: #000;
 }
 
 footer {
@@ -23,17 +23,17 @@ footer {
 }
 
 .header a {
-	color: #000;
+	color: white;
 	text-decoration: none;
 }
 
 .header a:hover {
-	color: #000;
+	color: grey;
 	text-decoration: none;
 }
 
 .header a:active {
-	color: #000;
+	color: white;
 	text-decoration: none;
 }
 
@@ -47,7 +47,7 @@ footer {
 
 .menubutton {
 	background-color: #ff000000;
-	color: black;
+	color: white;
 	font-size: 20px;
 	border: none;
 	padding-right: 0;
@@ -63,7 +63,7 @@ footer {
 .menulist {
 	display: none;
 	position: absolute;
-	background-color: #9b9b9b;
+	background-color: #f5f5f5;
 	min-width: 160px;
 	z-index: 1;
 	padding-left: 0;
@@ -72,7 +72,7 @@ footer {
 }
 
 .menulist a {
-	color: white;
+	color: black;
 	padding: 4px 16px;
 	text-decoration: none;
 	display: block;
@@ -87,32 +87,6 @@ footer {
 }
 
 .menu:hover .menubutton {
-	background-color: #9b9b9b;
+	background-color: #d1d1d1;
 	color: white;
-}
-
-@media only screen and (prefers-color-scheme: dark) {
-	html {
-		color: #fff;
-		background-color: #000;
-	}
-	
-	.menubutton {
-	  color: white;
-	}
-	
-	.header a {
-		color: #fff;
-		text-decoration: none;
-	}
-
-	.header a:hover {
-		color: #fff;
-		text-decoration: none;
-	}
-
-	.header a:active {
-		color: #fff;
-		text-decoration: none;
-	}
 }
