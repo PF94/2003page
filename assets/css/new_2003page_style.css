@@ -12,7 +12,9 @@ footer {
 	font-size: 20px;
 	padding-bottom: 4px;
     border-style: none none solid none;
+	color: lightgray;
     border-width: 1px;
+	/* background-color: #6F42C1; */
 }
 
 .header span {
