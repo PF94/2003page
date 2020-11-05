@@ -1,0 +1,120 @@
+html {
+	font-family: Segoe UI;
+	color: #000;
+	background-color: #fff;
+}
+
+footer {
+	display: block;
+}
+
+.header {
+	font-size: 20px;
+	padding-bottom: 4px;
+    border-style: none none solid none;
+    border-width: 1px;
+}
+
+.header span {
+    border-style: none solid none none;
+    border-width: 1px;
+    padding-right: 8px;
+    padding-left: 8px;
+}
+
+.header a {
+	color: #000;
+	text-decoration: none;
+}
+
+.header a:hover {
+	color: #000;
+	text-decoration: none;
+}
+
+.header a:active {
+	color: #000;
+	text-decoration: none;
+}
+
+.content {
+	text-align: center;
+}
+
+.py-3 { /*what the hell is py-3*/
+    padding-bottom: 1rem !important;
+}
+
+/* Dropdown Button */
+.menubutton {
+	background-color: #ff000000;
+	color: black;
+	font-size: 20px;
+	border: none;
+	padding-right: 0;
+	padding-left: 0;
+	margin-left: 8px;
+}
+
+.menu {
+	position: relative;
+	display: inline-block;
+}
+
+.menulist {
+	display: none;
+	position: absolute;
+	background-color: #9b9b9b;
+	min-width: 160px;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+	z-index: 1;
+	padding-left: 0;
+	padding-right: 0;
+	margin-left: 8px;
+}
+
+.menulist a {
+	color: white;
+	padding: 4px 16px;
+	text-decoration: none;
+	display: block;
+}
+
+.menulist a:hover {
+	background-color: #ddd;
+}
+
+.menu:hover .menulist {
+	display: block;
+}
+
+.menu:hover .menubutton {
+	background-color: #9b9b9b;
+	color: white;
+}
+
+@media only screen and (prefers-color-scheme: dark) {
+	html {
+		color: #fff;
+		background-color: #000;
+	}
+	
+	.menubutton {
+	  color: white;
+	}
+	
+	.header a {
+		color: #fff;
+		text-decoration: none;
+	}
+
+	.header a:hover {
+		color: #fff;
+		text-decoration: none;
+	}
+
+	.header a:active {
+		color: #fff;
+		text-decoration: none;
+	}
+}
