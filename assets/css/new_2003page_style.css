@@ -59,6 +59,7 @@ img {
 	padding-right: 0;
 	padding-left: 0;
 	margin-left: 8px;
+	font-family: "Segoe UI", "Open Sans", "Noto Sans", "Roboto", "Ubuntu", "verdana", "arial", "sans-serif"; /*i have to add this else IE would use arial as font.*/
 }
 
 .menu {
