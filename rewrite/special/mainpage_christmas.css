@@ -1,0 +1,10 @@
+/* Special CSS! */
+/* chirstmas might be just impossible to make because of the red-green color combo... */
+html
+{
+	background-color: rgb(108, 111, 31);
+}
+
+.menubutton {
+	background-color: rgb(108, 111, 31);
+}
