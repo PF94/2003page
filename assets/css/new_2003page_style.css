@@ -8,6 +8,10 @@ footer {
 	display: block;
 }
 
+img {
+	border: none; /*fixes this weird border on IE 10 and older.*/
+}
+
 .header {
 	font-size: 20px;
 	padding-bottom: 4px;
@@ -48,7 +52,7 @@ footer {
 }
 
 .menubutton {
-	background-color: #1f1f1f
+	background-color: #1f1f1f;
 	color: white;
 	font-size: 20px;
 	border: none;
