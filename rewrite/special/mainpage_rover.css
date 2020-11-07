@@ -1,0 +1,10 @@
+/* Custom CSS that overrides the background color with blue-ish colors, made for a Rover joke. */
+
+html
+{
+	background-color: rgb(93, 103, 180);
+}
+
+.menubutton {
+	background-color: rgb(93, 103, 180);
+}

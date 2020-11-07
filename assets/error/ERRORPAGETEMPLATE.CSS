@@ -19,7 +19,7 @@ a
 	color: rgb(19,112,171);	font-size: 1em;
 	font-weight: normal;
 	text-decoration: none;
-	margin-left: 0px;
+	margin-left: 0;
 	vertical-align: top;
 }
 
@@ -55,7 +55,7 @@ h2 /* used for Heading in Main Body */
 {
 	font-size: 0.9em;
 	font-weight: normal;
-	margin-top: 20px;	
+	margin-top: 20px;
 	margin-bottom: 1px;
 }
 
@@ -63,7 +63,7 @@ h3 /* used for text in main body */
 {
 	font-size: 0.9em;
 	font-weight: normal;
-	margin-top: 10px;	
+	margin-top: 10px;
 	margin-bottom: 1px;
 }
 
@@ -79,9 +79,8 @@ h5 /* used for Heading in InfoBlock */
 {
 	font-size: 1em;
 	font-weight: normal;
-	margin-bottom: 0px;
-	margin-top: 1px;	
-	font-size: 0.9em;
+	margin-bottom: 0;
+	margin-top: 1px;
 	color: #575757;
 }
 
@@ -89,7 +88,7 @@ h5 /* used for Heading in InfoBlock */
 .actionIcon /* used for task link icons */
 {
 	vertical-align: middle;
-	margin-top: 0px;
+	margin-top: 0;
 	margin-right: 6px;
 }
 

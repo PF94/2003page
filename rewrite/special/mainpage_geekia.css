@@ -1,0 +1,24 @@
+/* Special CSS! */
+
+html
+{
+	background-color: rgb(174, 174, 174);
+	color: #404040;
+}
+
+.menubutton {
+	background-color: rgb(174, 174, 174);
+	color: #404040;
+}
+
+.header {
+    color: #404040;
+}
+
+.header a {
+    color: #404040;
+}
+
+.header a:hover {
+    color: black;
+}
