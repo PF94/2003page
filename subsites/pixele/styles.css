@@ -27,26 +27,28 @@ body {
     font-size: 25px;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
-letter-spacing: -0.8px;
-word-spacing: -0.2px;
-font-weight: normal;
-text-decoration: none;
-font-style: normal;
-font-variant: normal;
-text-transform: none;
+	letter-spacing: -0.8px;
+	word-spacing: -0.2px;
+	font-weight: normal;
+	text-decoration: none;
+	font-style: normal;
+	font-variant: normal;
+	text-transform: none;
+}
+
+.center {
+	text-align: center;
 }
 
 a {
     font-family: Arial, Helvetica, sans-serif;
-font-size: 25px;
-letter-spacing: -0.8px;
-word-spacing: -0.2px;
-font-weight: 700;
-text-decoration: none;
-font-style: normal;
-font-variant: normal;
-text-transform: none;
+	font-size: 25px;
+	letter-spacing: -0.8px;
+	word-spacing: -0.2px;
+	font-weight: 700;
+	text-decoration: none;
+	font-style: normal;
+	font-variant: normal;
+	text-transform: none;
     color: white;
-
-
   }
