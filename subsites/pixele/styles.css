@@ -6,7 +6,6 @@ body {
     font-size: 50px;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
-	text-shadow: 2px 2px red;
 }
 
 .desc {
@@ -53,3 +52,7 @@ a {
 	text-transform: none;
     color: white;
   }
+
+h1 {
+	text-shadow: 2px 2px red;
+}
