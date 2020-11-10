@@ -3,7 +3,3 @@
 ## What is 2003page?
 
 2003page is a open source website. People can contribute to 2003page freely.
-
-----
-
-Notice: We are not associated with Retrosite, JarTeam, Jarhead Gamer 38, and TLWXPuser, the actions they have done are extremely scummy.
