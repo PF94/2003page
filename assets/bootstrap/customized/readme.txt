@@ -1,1 +1,0 @@
-The slate theme is used in the primary pages of 2003page. Includes the Main Page and Contributing.
