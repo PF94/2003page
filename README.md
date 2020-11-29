@@ -1,5 +1,5 @@
 # 2003page
-[![Project Status: Inactive – The project has reached a stable, usable state but is no longer being actively developed; support/maintenance will be provided as time allows.](https://www.repostatus.org/badges/latest/inactive.svg)](https://www.repostatus.org/#inactive)
-## What is 2003page?
+[![Project Status: Abandoned – Initial development has started, but there has not yet been a stable, usable release; the project has been abandoned and the author(s) do not intend on continuing development.](https://www.repostatus.org/badges/latest/abandoned.svg)](https://www.repostatus.org/#abandoned)
+## What was 2003page?
 
-2003page is a open source website. People can contribute to 2003page freely.
+2003page was a open source website. People could contribute to 2003page freely.
