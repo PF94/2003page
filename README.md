@@ -5,6 +5,8 @@ The site is https://chaziztech.github.io/2003page/, The Upwader.com subdomain is
 
 The 2003page.ga domain is no longer used since October 2020, and might be taken by someone else in 2021.
 
-Discord contact is currently unavailable, so invitations should be sent at merenguestudios.pf94@gmail.com.
+Contact me on Discord if you want contributoraccess to 2003page.
+
+``Chaziz#1539``
 
 -Chaziz, December 24th, 2020.
