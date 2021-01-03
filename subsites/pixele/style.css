@@ -1,0 +1,21 @@
+body {
+	background-image:url('img/spacebg.gif');
+	text-align: center;
+	color: white;
+}
+
+.box {
+  border: 5px outset #FFFF00;
+  background-image: url('img/blue146.gif');
+  text-align: center;
+  border-width: 5px;
+  border-spacing: 2px;
+}
+
+a {
+	color: yellow;
+}
+
+p {
+	color: yellow;
+}
