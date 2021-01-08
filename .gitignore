@@ -14,7 +14,7 @@ _vti_pvt/bots.cnf
 _vti_pvt/botinfs.cnf
 _vti_cnf/
 
-# disallow .exe files, please, zippify your .exe files, 2003page ain't a file hoster.
+# disallow .exe files, please, zippify your .exe files, allEditSite is not a file hoster.
 *.exe
 
 # Visual Studio Code JSON Junk
