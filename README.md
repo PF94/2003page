@@ -1,4 +1,4 @@
 # allEditSite
-The website that anyone can contribute to.
+This code blows!
 
-Contact me on Discord if you want contributor access to 2003page/allEditSite. The Discord ID is ``Chaziz#1539``.
+A new repository has been made, this one was too bloated (it takes around 700mb to download it due to remains of old bloated files from 2019-2020).
