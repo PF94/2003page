@@ -8,6 +8,11 @@ footer {
 	display: block;
 }
 
+table, th, td {
+  border: 1px solid gray;
+  border-collapse: collapse;
+}
+
 img {
 	border: none; /*fixes this weird border on IE 10 and older.*/
 }
